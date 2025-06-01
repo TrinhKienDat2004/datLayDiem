@@ -1,11 +1,13 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using BAI5_CONGD.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace BAI5_CONGD.Data
 {
-    public class BookDbContext : DbContext
+    public class BookDbContext : IdentityDbContext<ApplicationUser>
     {
-        public BookDbContext(DbContextOptions<BookDbContext> options) : base(options) { }
+        public BookDbContext(DbContextOptions<BookDbContext> options)
+        : base(options) { }
 
         public DbSet<Book> Books { get; set; }
         public DbSet<Category> Categories { get; set; }

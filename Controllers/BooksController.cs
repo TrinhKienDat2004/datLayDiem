@@ -3,6 +3,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authorization;
 using BAI5_CONGD.Data;
 using BAI5_CONGD.Models;
 
@@ -18,20 +19,29 @@ namespace BAI5_CONGD.Controllers
         }
 
         // GET: Books
-        public async Task<IActionResult> Index(int? categoryId)
+        public async Task<IActionResult> Index(int? categoryId, string searchString)
         {
             var categories = await _context.Categories.ToListAsync();
             var booksQuery = _context.Books.Include(b => b.Category).AsQueryable();
+
             if (categoryId.HasValue)
             {
                 booksQuery = booksQuery.Where(b => b.CategoryId == categoryId.Value);
             }
+
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                string normalized = searchString.ToLower();
+                booksQuery = booksQuery.Where(b => b.Title!.ToLower().Contains(normalized));
+            }
+
             var books = await booksQuery.ToListAsync();
             var vm = new BookIndexViewModel
             {
                 Categories = categories,
                 Books = books,
-                SelectedCategoryId = categoryId
+                SelectedCategoryId = categoryId,
+                SearchString = searchString
             };
             return View(vm);
         }
@@ -56,6 +66,7 @@ namespace BAI5_CONGD.Controllers
         }
 
         // GET: Books/Create
+        [Authorize(Roles = "Admin")]
         public IActionResult Create()
         {
             var categories = _context.Categories.ToList();
@@ -66,6 +77,7 @@ namespace BAI5_CONGD.Controllers
         // POST: Books/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create([Bind("Id,Title,Author,Price,Description,Image,CategoryId")] Book book)
         {
             if (ModelState.IsValid)
@@ -79,6 +91,7 @@ namespace BAI5_CONGD.Controllers
         }
 
         // GET: Books/Edit/5
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -98,6 +111,7 @@ namespace BAI5_CONGD.Controllers
         // POST: Books/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Author,Price,Description,Image,CategoryId")] Book book)
         {
             if (id != book.Id)
@@ -130,6 +144,7 @@ namespace BAI5_CONGD.Controllers
         }
 
         // GET: Books/Delete/5
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -151,6 +166,7 @@ namespace BAI5_CONGD.Controllers
         // POST: Books/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var book = await _context.Books.FindAsync(id);

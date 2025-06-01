@@ -1,0 +1,28 @@
+@model BAI5_CONGD.Models.Category
+
+@{
+    ViewData["Title"] = "Category Details";
+    Layout = "_Layout";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-sm mt-4">
+            <div class="card-header bg-info text-white">
+                <h4 class="mb-0">Category Details</h4>
+            </div>
+            <div class="card-body">
+                <dl class="row">
+                    <dt class="col-sm-4">ID</dt>
+                    <dd class="col-sm-8">@Model.CategoryId</dd>
+                    <dt class="col-sm-4">Name</dt>
+                    <dd class="col-sm-8">@Model.CategoryName</dd>
+                </dl>
+                <a asp-action="Edit" asp-route-id="@Model.CategoryId" class="btn btn-warning">
+                    <i class="bi bi-pencil-square"></i> Edit
+                </a>
+                <a asp-action="Index" class="btn btn-secondary ms-2">Back to List</a>
+            </div>
+        </div>
+    </div>
+</div>

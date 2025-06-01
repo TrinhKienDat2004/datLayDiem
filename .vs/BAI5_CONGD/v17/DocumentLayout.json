@@ -3,44 +3,148 @@
   "WorkspaceRootPath": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\migrations\\20250521140341_seedcategorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:migrations\\20250521140341_seedcategorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\migrations\\20250521113725_addpriceprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:migrations\\20250521113725_addpriceprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\migrations\\20250601013735_initidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:migrations\\20250601013735_initidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\models\\bookindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:models\\bookindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\migrations\\bookdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:migrations\\bookdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\migrations\\20250521140341_seedcategorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:migrations\\20250521140341_seedcategorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,28 +159,12 @@
       "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\migrations\\bookdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:migrations\\bookdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\migrations\\20250521113725_addpriceprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|solutionrelative:migrations\\20250521113725_addpriceprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF41AF8C-0BDE-435F-8C33-FF82891C2D39}|BAI5_CONGD.csproj|c:\\users\\dat\\source\\repos\\bai5_congd\\migrations\\20250521111619_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +186,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,254 +198,278 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T13:06:16.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "BookDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Data\\BookDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\BookDbContext.cs",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Data\\BookDbContext.cs",
-              "RelativeToolTip": "Data\\BookDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:55:25.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:27:36.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BookIndexViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\BookIndexViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\BookIndexViewModel.cs",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\BookIndexViewModel.cs",
-              "RelativeToolTip": "Models\\BookIndexViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:22:16.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvyYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:48:16.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T11:26:52.25Z",
+              "WhenOpened": "2025-06-01T11:10:41.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T11:10:32.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
               "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Index.cshtml",
               "RelativeToolTip": "Views\\Books\\Index.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAswEQAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBYAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-21T11:24:02.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:48:16.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Books\\Details.cshtml",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Details.cshtml",
-              "RelativeToolTip": "Views\\Books\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T13:16:49.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250521140341_SeedCategoryData.cs",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\20250521140341_SeedCategoryData.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250521140341_SeedCategoryData.cs",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\20250521140341_SeedCategoryData.cs",
-              "RelativeToolTip": "Migrations\\20250521140341_SeedCategoryData.cs",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T14:03:41.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Create.cshtml",
-              "RelativeToolTip": "Views\\Books\\Create.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAswCUAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T11:17:31.871Z",
+              "WhenOpened": "2025-06-01T10:54:50.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:48:54.175Z",
+              "DocumentIndex": 0,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T12:49:27.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\Book.cs",
-              "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:49:46.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:06:54.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-21T10:47:27.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Books\\Delete.cshtml",
               "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Delete.cshtml",
               "RelativeToolTip": "Views\\Books\\Delete.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T11:36:52.394Z",
+              "WhenOpened": "2025-05-21T11:36:52.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T11:24:46.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Books\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Books\\Edit.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T11:24:50.575Z",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T03:09:35.548Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T11:24:40.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T11:37:26.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T11:37:37.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T11:37:47.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:16:05.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T13:06:16.837Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:56:53.558Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:48:11.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BookDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\BookDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\BookDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\BookDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\BookDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAADwv3EAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAALoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:16:00.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20250521111619_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\20250521111619_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250521111619_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\20250521111619_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20250521111619_InitialCreate.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:15:43.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T11:27:36.062Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T11:10:27.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T11:10:24.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T03:06:06.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:31:26.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T01:14:05.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "20250521113725_AddPricePrecision.cs",
               "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\20250521113725_AddPricePrecision.cs",
               "RelativeDocumentMoniker": "Migrations\\20250521113725_AddPricePrecision.cs",
@@ -365,12 +477,239 @@
               "RelativeToolTip": "Migrations\\20250521113725_AddPricePrecision.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:37:25.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T11:37:25.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
+              "Title": "20250601013735_InitIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\20250601013735_InitIdentity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250601013735_InitIdentity.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\20250601013735_InitIdentity.cs",
+              "RelativeToolTip": "Migrations\\20250601013735_InitIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:55:12.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T01:51:41.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Data\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\BookDbContext.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Data\\BookDbContext.cs",
+              "RelativeToolTip": "Data\\BookDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:55:25.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T03:06:31.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T10:47:27.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-01T02:26:22.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\BookDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\BookDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\BookDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\BookDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:16:00.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\BookIndexViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\BookIndexViewModel.cs",
+              "RelativeToolTip": "Models\\BookIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:22:16.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T01:11:04.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T11:26:52.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAIBZwEQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T13:16:49.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250521140341_SeedCategoryData.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\20250521140341_SeedCategoryData.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250521140341_SeedCategoryData.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\20250521140341_SeedCategoryData.cs",
+              "RelativeToolTip": "Migrations\\20250521140341_SeedCategoryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:03:41.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T11:17:31.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:48:54.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:49:46.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:06:54.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T11:24:50.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:56:53.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250521111619_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\20250521111619_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250521111619_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Migrations\\20250521111619_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250521111619_InitialCreate.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:15:43.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -378,12 +717,11 @@
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T13:06:27.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:06:27.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 43,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -391,8 +729,7 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T11:24:53.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T11:24:53.079Z"
             }
           ]
         },

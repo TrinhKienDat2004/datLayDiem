@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\BAI5_CONGD.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\wwwroot\\ImageBooks\\congnghe8.jpg",
+      "PackagePath": "staticwebassets\\ImageBooks\\congnghe8.jpg"
+    },
+    {
       "Id": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\wwwroot\\ImageBooks\\cuocsong.jpg",
       "PackagePath": "staticwebassets\\ImageBooks\\cuocsong.jpg"
     },
@@ -19,6 +23,22 @@
     {
       "Id": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\wwwroot\\ImageBooks\\laptrinh1.jpg",
       "PackagePath": "staticwebassets\\ImageBooks\\laptrinh1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\wwwroot\\ImageBooks\\th (2).jpg",
+      "PackagePath": "staticwebassets\\ImageBooks\\th (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\wwwroot\\ImageBooks\\th.jpg",
+      "PackagePath": "staticwebassets\\ImageBooks\\th.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\wwwroot\\ImageBooks\\tinhoc.jpg",
+      "PackagePath": "staticwebassets\\ImageBooks\\tinhoc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\wwwroot\\ImageBooks\\tt.jpg",
+      "PackagePath": "staticwebassets\\ImageBooks\\tt.jpg"
     },
     {
       "Id": "C:\\Users\\DAT\\source\\repos\\BAI5_CONGD\\wwwroot\\ImageBooks\\tuoitho.jpg",

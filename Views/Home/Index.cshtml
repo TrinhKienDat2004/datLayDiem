@@ -1,8 +1,15 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Trang Chủ";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container mt-5">
+    <div class="text-center">
+        <h1 class="display-4 text-primary">Chào mừng đến với Thư viện Sách!</h1>
+        <p class="lead mt-3">
+            Khám phá kho sách phong phú và đa dạng, từ sách học thuật đến tiểu thuyết, truyện tranh và nhiều thể loại khác.
+        </p>
+        <a class="btn btn-success btn-lg mt-3" asp-controller="Books" asp-action="Index">
+            Bắt đầu khám phá
+        </a>
+    </div>
 </div>
